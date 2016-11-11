@@ -4,7 +4,7 @@
  *      *** Do not modify ! ***
  *
  * Project: 'CNC_Gcode_interpreter' 
- * Target:  'Target 1' 
+ * Target:  'SAMD20J18' 
  */
 
 #ifndef RTE_COMPONENTS_H
